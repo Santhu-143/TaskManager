@@ -1,4 +1,4 @@
-com.keka.ToDoList
+com.task.TaskManager
 anim abc_fade_in
 anim abc_fade_out
 anim abc_grow_fade_in_from_bottom
@@ -654,6 +654,8 @@ color cardview_light_background
 color cardview_shadow_end_color
 color cardview_shadow_start_color
 color color1
+color color12
+color color123
 color colorAccent
 color colorPrimary
 color colorPrimaryDark
@@ -1081,6 +1083,7 @@ drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
 drawable ca
 drawable calendar
+drawable calendar1
 drawable completed
 drawable correct
 drawable day_item_background
@@ -1102,6 +1105,9 @@ drawable ic_launcher_foreground
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
+drawable img
+drawable img_1
+drawable img_2
 drawable more
 drawable mtrl_snackbar_background
 drawable mtrl_tabs_default_indicator
@@ -1324,6 +1330,7 @@ id range_picker
 id right
 id right_icon
 id right_side
+id rootRL
 id saturdayLabel
 id save_image_matrix
 id save_non_transition_alpha

@@ -3,7 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/SHAIK.RIYAZ/AndroidStudioProjects/todo-list-master/todo-list-master/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/SHAIK.RIYAZ/AndroidStudioProjects/todo-list-master/todo-list-master/app/src/main/res/drawable/back_drawable.xml" value="0.1" />
+        <entry key="..\:/Users/SHAIK.RIYAZ/AndroidStudioProjects/todo-list-master/todo-list-master/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/SHAIK.RIYAZ/AndroidStudioProjects/todo-list-master/todo-list-master/app/src/main/res/layout/dialog_completed_theme.xml" value="0.2" />
         <entry key="..\:/Users/SHAIK.RIYAZ/AndroidStudioProjects/todo-list-master/todo-list-master/app/src/main/res/layout/fragment_calendar_view.xml" value="0.2" />
         <entry key="..\:/Users/SHAIK.RIYAZ/AndroidStudioProjects/todo-list-master/todo-list-master/app/src/main/res/layout/fragment_create_task.xml" value="0.25" />

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.keka.ToDoList"
+    package="com.task.TaskManager"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -12,7 +12,7 @@
     <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
 
     <application
-        android:name="com.keka.ToDoList.AppController"
+        android:name="com.task.TaskManager.AppController"
         android:allowBackup="true"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:debuggable="true"
@@ -22,8 +22,8 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.keka.ToDoList.activity.AlarmActivity" />
-        <activity android:name="com.keka.ToDoList.activity.MainActivity" >
+        <activity android:name="com.task.TaskManager.activity.AlarmActivity" />
+        <activity android:name="com.task.TaskManager.activity.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -32,7 +32,7 @@
         </activity>
 
         <receiver
-            android:name="com.keka.ToDoList.broadcastReceiver.AlarmBroadcastReceiver"
+            android:name="com.task.TaskManager.broadcastReceiver.AlarmBroadcastReceiver"
             android:enabled="false" >
             <intent-filter>
                 <action android:name="android.intent.action.BOOT_COMPLETED" />
@@ -40,7 +40,7 @@
         </receiver>
 
         <service
-            android:name="com.keka.ToDoList.broadcastReceiver.AlarmService"
+            android:name="com.task.TaskManager.broadcastReceiver.AlarmService"
             android:enabled="true"
             android:exported="true" />
 

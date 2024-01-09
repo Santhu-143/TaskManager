@@ -1,6 +1,6 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="com.keka.ToDoList"
+3    package="com.task.TaskManager"
 4    android:versionCode="1"
 5    android:versionName="1.0" >
 6
@@ -19,8 +19,8 @@
 13
 14    <application
 14-->C:\Users\SHAIK.RIYAZ\AndroidStudioProjects\todo-list-master\todo-list-master\app\src\main\AndroidManifest.xml:5:5-33:19
-15        android:name="com.keka.ToDoList.AppController"
-15-->C:\Users\SHAIK.RIYAZ\AndroidStudioProjects\todo-list-master\todo-list-master\app\src\main\AndroidManifest.xml:6:9-55
+15        android:name="com.task.TaskManager.AppController"
+15-->C:\Users\SHAIK.RIYAZ\AndroidStudioProjects\todo-list-master\todo-list-master\app\src\main\AndroidManifest.xml:6:9-58
 16        android:allowBackup="true"
 16-->C:\Users\SHAIK.RIYAZ\AndroidStudioProjects\todo-list-master\todo-list-master\app\src\main\AndroidManifest.xml:7:9-35
 17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -37,12 +37,12 @@
 23        android:testOnly="true"
 24        android:theme="@style/AppTheme" >
 24-->C:\Users\SHAIK.RIYAZ\AndroidStudioProjects\todo-list-master\todo-list-master\app\src\main\AndroidManifest.xml:12:9-40
-25        <activity android:name="com.keka.ToDoList.activity.AlarmActivity" />
-25-->C:\Users\SHAIK.RIYAZ\AndroidStudioProjects\todo-list-master\todo-list-master\app\src\main\AndroidManifest.xml:13:9-86
-25-->C:\Users\SHAIK.RIYAZ\AndroidStudioProjects\todo-list-master\todo-list-master\app\src\main\AndroidManifest.xml:13:19-74
-26        <activity android:name="com.keka.ToDoList.activity.MainActivity" >
+25        <activity android:name="com.task.TaskManager.activity.AlarmActivity" />
+25-->C:\Users\SHAIK.RIYAZ\AndroidStudioProjects\todo-list-master\todo-list-master\app\src\main\AndroidManifest.xml:13:9-89
+25-->C:\Users\SHAIK.RIYAZ\AndroidStudioProjects\todo-list-master\todo-list-master\app\src\main\AndroidManifest.xml:13:19-77
+26        <activity android:name="com.task.TaskManager.activity.MainActivity" >
 26-->C:\Users\SHAIK.RIYAZ\AndroidStudioProjects\todo-list-master\todo-list-master\app\src\main\AndroidManifest.xml:14:9-20:20
-26-->C:\Users\SHAIK.RIYAZ\AndroidStudioProjects\todo-list-master\todo-list-master\app\src\main\AndroidManifest.xml:14:19-73
+26-->C:\Users\SHAIK.RIYAZ\AndroidStudioProjects\todo-list-master\todo-list-master\app\src\main\AndroidManifest.xml:14:19-76
 27            <intent-filter>
 27-->C:\Users\SHAIK.RIYAZ\AndroidStudioProjects\todo-list-master\todo-list-master\app\src\main\AndroidManifest.xml:15:13-19:29
 28                <action android:name="android.intent.action.MAIN" />
@@ -57,8 +57,8 @@
 33
 34        <receiver
 34-->C:\Users\SHAIK.RIYAZ\AndroidStudioProjects\todo-list-master\todo-list-master\app\src\main\AndroidManifest.xml:22:9-27:20
-35            android:name="com.keka.ToDoList.broadcastReceiver.AlarmBroadcastReceiver"
-35-->C:\Users\SHAIK.RIYAZ\AndroidStudioProjects\todo-list-master\todo-list-master\app\src\main\AndroidManifest.xml:22:19-92
+35            android:name="com.task.TaskManager.broadcastReceiver.AlarmBroadcastReceiver"
+35-->C:\Users\SHAIK.RIYAZ\AndroidStudioProjects\todo-list-master\todo-list-master\app\src\main\AndroidManifest.xml:22:19-95
 36            android:enabled="false" >
 36-->C:\Users\SHAIK.RIYAZ\AndroidStudioProjects\todo-list-master\todo-list-master\app\src\main\AndroidManifest.xml:23:13-36
 37            <intent-filter>
@@ -71,8 +71,8 @@
 41
 42        <service
 42-->C:\Users\SHAIK.RIYAZ\AndroidStudioProjects\todo-list-master\todo-list-master\app\src\main\AndroidManifest.xml:29:9-31:38
-43            android:name="com.keka.ToDoList.broadcastReceiver.AlarmService"
-43-->C:\Users\SHAIK.RIYAZ\AndroidStudioProjects\todo-list-master\todo-list-master\app\src\main\AndroidManifest.xml:29:18-81
+43            android:name="com.task.TaskManager.broadcastReceiver.AlarmService"
+43-->C:\Users\SHAIK.RIYAZ\AndroidStudioProjects\todo-list-master\todo-list-master\app\src\main\AndroidManifest.xml:29:18-84
 44            android:enabled="true"
 44-->C:\Users\SHAIK.RIYAZ\AndroidStudioProjects\todo-list-master\todo-list-master\app\src\main\AndroidManifest.xml:30:13-35
 45            android:exported="true" />

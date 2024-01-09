@@ -9,17 +9,10 @@
     android:layout_height="match_parent"
     android:paddingLeft="20dp"
     android:paddingRight="20dp"
+    android:background="@drawable/img_2"
     android:paddingTop="30dp"
     android:paddingBottom="50dp"
     android:orientation="vertical">
-
-        <ImageView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center_horizontal"
-            android:layout_marginTop="20dp"
-            android:background="@drawable/ic_add_black_24dp"
-            android:scaleType="centerCrop" />
 
         <TextView
             fontPath="fonts/nunito_extra_bold.ttf"
@@ -27,9 +20,10 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
             android:layout_marginTop="20dp"
-            android:text="Add a task"
-            android:textColor="@android:color/black"
-            android:textSize="22sp"
+            android:text="ADD TASK"
+            android:textColor="@color/color12"
+            android:textSize="24sp"
+            android:fontFamily="bold"
             tools:ignore="MissingPrefix" />
 
         <TextView
@@ -39,7 +33,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="30dp"
             android:text="Task title"
-            android:textColor="@color/color1"
+            android:textColor="@color/color123"
             tools:ignore="MissingPrefix" />
 
         <EditText
@@ -61,7 +55,8 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="30dp"
         android:text="Task description"
-        android:textColor="@color/color1"
+        android:fontFamily="bold"
+        android:textColor="@color/color123"
         tools:ignore="MissingPrefix" />
 
     <EditText
@@ -83,7 +78,8 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="30dp"
         android:text="Task date"
-        android:textColor="@color/color1"
+        android:fontFamily="bold"
+        android:textColor="@color/color123"
         tools:ignore="MissingPrefix" />
 
     <EditText
@@ -105,7 +101,8 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="30dp"
         android:text="Task time"
-        android:textColor="@color/color1"
+        android:fontFamily="bold"
+        android:textColor="@color/color123"
         tools:ignore="MissingPrefix" />
 
     <EditText
@@ -123,11 +120,12 @@
     <TextView
         android:layout_marginLeft="3dp"
         fontPath="fonts/nunito_light.ttf"
+        android:fontFamily="bold"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="30dp"
         android:text="Add an event"
-        android:textColor="@color/color1"
+        android:textColor="@color/color123"
         tools:ignore="MissingPrefix" />
 
     <EditText
@@ -146,9 +144,9 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/addTask"
-        android:text="Add task"
+        android:text="SUBMIT"
         android:fontFamily="bold"
-        android:background="@drawable/btn_background"
+        android:background="@color/color12"
         android:textColor="@color/colorPrimaryDark"
         android:layout_marginTop="40dp" />
 
