@@ -2,7 +2,7 @@
 It is simple app to manage a list of all of the tasks you need to complete during a particular period of time. With this app, you can effortlessly  add, update, and delete tasks with ease, including titles, descriptions, dates, and times.The user interface is very user-friendly to use.
 Stay on top of your schedule by marking completed tasks and enjoy the convenience of a built-in calendar that shows important tasks. In addition, the app provides an useful alarm function that informs you about upcoming activities. Task Manager is the perfect app that healps us to manage tasks effectively and makes our everyday life more organized.
 
-Tech Stack
+*Tech Stack*
 - Androidx
 - Calligraphy for fonts
 - Butterknife for binding the ids
@@ -10,13 +10,13 @@ Tech Stack
 - Glide
 - Calendar View
 
-#Features
+*#Features*
 - Task Management
 - Due Dates
 - User-friendly Interface
 - Notify tasks
 
-#Instructions to run & setup application
+*#Instructions to run & setup application*
 
 - Firstly, Install Andriod Studio : (Download here) (https://developer.android.com/studio)
 - Configure & set-up Andriod studio
@@ -26,7 +26,8 @@ Tech Stack
 - Run wihtout errors & debug
 - Test App
 
-#Screenshots
+*#Screenshots*
+
 <img src="https://github.com/Santhu-143/TaskManager/assets/145656029/d794a8b7-ba08-445a-ba95-374595f5eb60" height=400 width=260>
 <br>
 <img src="https://github.com/Santhu-143/TaskManager/assets/145656029/1b172599-92d5-4544-b3d5-52a6a5a5d8d6" height=400 width=260>
