@@ -21,7 +21,7 @@ Stay on top of your schedule by marking completed tasks and enjoy the convenienc
 - Firstly, Install Andriod Studio : (Download here) (https://developer.android.com/studio)
 - Configure & set-up Andriod studio
 - Create new project (if you want run this project folder, install and place in folder named #AndroidStudioProjects and open folder in android studio
-- setup your mobile device to run by changing developer options(https://developer.android.com/codelabs/basic-android-kotlin-compose-connect-device#0)
+-To run,setup your mobile device by changing developer options(https://developer.android.com/codelabs/basic-android-kotlin-compose-connect-device#0)
 - or we can use emulator to see the ouput of project
 - Run wihtout errors & debug
 - Test App
