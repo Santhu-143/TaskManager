@@ -16,7 +16,7 @@ Tech Stack
 - User-friendly Interface
 - Notify tasks
 
-#Installation
+#Instructions to run & setup application
 
 - Firstly, Install Andriod Studio : (Download here) (https://developer.android.com/studio)
 - Configure & set-up Andriod studio
