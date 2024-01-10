@@ -28,11 +28,11 @@ Stay on top of your schedule by marking completed tasks and enjoy the convenienc
 
 *#Screenshots*
 
-<img src="https://github.com/Santhu-143/TaskManager/assets/145656029/d794a8b7-ba08-445a-ba95-374595f5eb60" height=400 width=260>
+<img src="https://github.com/Santhu-143/TaskManager/assets/145656029/d794a8b7-ba08-445a-ba95-374595f5eb60" height=400 width=225>
 <br>
-<img src="https://github.com/Santhu-143/TaskManager/assets/145656029/1b172599-92d5-4544-b3d5-52a6a5a5d8d6" height=400 width=260>
+<img src="https://github.com/Santhu-143/TaskManager/assets/145656029/1b172599-92d5-4544-b3d5-52a6a5a5d8d6" height=400 width=225>
 <br>
-<img src="https://github.com/Santhu-143/TaskManager/assets/145656029/cd795d0e-5a71-4b58-a047-5b7ea85f1438" height=400 width=260>
+<img src="https://github.com/Santhu-143/TaskManager/assets/145656029/cd795d0e-5a71-4b58-a047-5b7ea85f1438" height=400 width=225>
 
 
 
