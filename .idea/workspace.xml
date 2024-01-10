@@ -9,7 +9,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="acac1e5b-600c-4ba3-9222-d191251c3db6" name="Default Changelist" comment="Finished Task" />
+    <list default="true" id="acac1e5b-600c-4ba3-9222-d191251c3db6" name="Default Changelist" comment="Finished Task">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +29,9 @@
         <option value="resourceFile" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2aishMqShU0RRaFztpoZm0PSAKi" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
